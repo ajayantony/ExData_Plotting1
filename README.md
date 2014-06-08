@@ -113,8 +113,8 @@ The four plots that you will need to construct are shown below.
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
 ##Instructions
-1.Code for each plot checks if required source file exists, if it does not it downloads the zip file, unzips it 
+1. Code for each plot checks if required source file exists, if it does not it downloads the zip file, unzips it 
 and extacts the required file.
-2.Code only reads the required date.
-3.Steps are commented to help understand what each piece of code does.
-4.PNG files are saved in the working directory.
+2. Code only reads the required date.
+3. Steps are commented to help understand what each piece of code does.
+4. PNG files are saved in the working directory.
